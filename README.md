@@ -1,1 +1,1 @@
-# chat-socket
+Calculadora feita em Python utilizando o FLask.
